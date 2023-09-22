@@ -87,12 +87,13 @@ html,body{
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        height: 38vh;
+        height: 100vh;
     }
     
     .social-icons li {
         list-style: none;
         margin-right: 20px;
+        margin-bottom: 10px;
     }
     
     .social-icons a {
