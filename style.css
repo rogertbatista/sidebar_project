@@ -89,6 +89,8 @@ html,body{
     .sidebar-header .close-btn:hover{
         animation-name: closeBtn;
         animation-duration: 1.5s;
+        animation-timing-function: ease-in-out;
+        animation-iteration-count: infinite;
     }
 
     .links li {
